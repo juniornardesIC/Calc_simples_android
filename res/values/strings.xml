@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">appCalculadora</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="lbl_valor1">Informe o valor 1</string>
+    <string name="lbl_valor2">Informe o valor 2</string>
+    <string name="lbl_somar">Somar</string>
+    <string name="btn_subtrair">Subtrair</string>
+    <string name="lbl_dividir">Dividir</string>
+    <string name="lbl_multi">Multiplicar</string>
+    <string name="msn1">"O resultado da multiplicação é:  "</string>
+    <string name="msn2">Nemhum valor informado! favor informar valores decimais nos campos!</string>
+    <string name="msnSoma">"O resultado da soma é:  "</string>
+    <string name="msnSubtracao">"O resultado da subtração é:  "</string>
+    <string name="msnDivicao">"O resultado da divisão é:  "</string>
+</resources>
